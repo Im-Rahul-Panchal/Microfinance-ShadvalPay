@@ -17,19 +17,19 @@ https://microfin-demo-react.shadvalpay.co.in
 
 ### Dashboard
 
-![Dashboard](.client/public/screenshots/dashboard.png)
+![Dashboard](./client/public/screenshots/dashboard.png)
 
 ### Customer Onboarding
 
-![Customer](.client/public/screenshots/customer.png)
+![Customer](./client/public/screenshots/customer.png)
 
 ### Loan Application
 
-![Loan](.client/public/screenshots/loan.png)
+![Loan](./client/public/screenshots/loan.png)
 
 ### Loan Tracking
 
-![Loan Tracking](.client/public/screenshots/tracking.png)
+![Loan Tracking](./client/public/screenshots/tracking.png)
 
 ---
 
